@@ -6,5 +6,6 @@ public class Class1
 	{
 		//comentario de prueba
 		//otro comentario
+		//comentario de colaborador
 	}
 }
